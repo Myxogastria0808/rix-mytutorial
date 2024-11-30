@@ -2,7 +2,7 @@ library(rix)
 
 rix(
     r_ver = "latest",
-    r_pkgs = c("dplyr", "ggplot2"),
+    r_pkgs = c("ggplot2"),
     system_pkgs = NULL,
     git_pkgs = NULL,
     ide = "code",
